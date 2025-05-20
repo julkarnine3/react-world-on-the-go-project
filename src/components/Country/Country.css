@@ -4,5 +4,15 @@
     justify-items: center;
     border-radius: 10px;
     padding: 20px;
-
+}
+.country-visited{
+    background-color: darkgray;
+}
+.btn-not-visited{
+    background-color: blue;
+    color: white;
+}
+.btn-visited{
+    background-color:brown;
+    color: black;
 }
