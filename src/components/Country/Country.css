@@ -11,8 +11,10 @@
 .btn-not-visited{
     background-color: blue;
     color: white;
+    margin-right: 10px;
 }
 .btn-visited{
     background-color:brown;
     color: black;
+    margin-right: 10px;
 }
